@@ -4,7 +4,7 @@ description: Apply the FloraCat Morandi gray-blue design system to any project â
 user-invocable: true
 ---
 
-# FloraCat Design System
+# FloraCat Style Skill
 
 Apply a refined Morandi gray-blue design language to the current project. This system emphasizes understated elegance through muted blue-gray tones, light typography, fluid animations, and generous whitespace.
 

@@ -1,4 +1,4 @@
-# FloraCat Design System
+# FloraCat Style Skill
 
 A Morandi gray-blue design language plugin for Claude Code. Instantly apply a refined, elegant visual style to any project — muted tones, light typography, fluid animations, and generous whitespace.
 
@@ -7,20 +7,20 @@ A Morandi gray-blue design language plugin for Claude Code. Instantly apply a re
 ### Option 1: Plugin directory flag
 
 ```bash
-claude --plugin-dir ~/Desktop/floracat-design-system
+claude --plugin-dir ~/Desktop/floracat-style-skill
 ```
 
 ### Option 2: Copy into your project
 
 ```bash
-cp -r ~/Desktop/floracat-design-system/.claude-plugin /your/project/.claude-plugin
-cp -r ~/Desktop/floracat-design-system/skills /your/project/.claude-plugin/skills
+cp -r ~/Desktop/floracat-style-skill/.claude-plugin /your/project/.claude-plugin
+cp -r ~/Desktop/floracat-style-skill/skills /your/project/.claude-plugin/skills
 ```
 
 ### Option 3: Symlink for all projects
 
 ```bash
-ln -s ~/Desktop/floracat-design-system ~/.claude/plugins/floracat-design-system
+ln -s ~/Desktop/floracat-style-skill ~/.claude/plugins/floracat-style-skill
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ ln -s ~/Desktop/floracat-design-system ~/.claude/plugins/floracat-design-system
 Once loaded, invoke the skill in any Claude Code session:
 
 ```
-/floracat-design-system:apply-style Apply the Morandi gray-blue design to this project
+/floracat-style-skill:apply-style Apply the Morandi gray-blue design to this project
 ```
 
 Claude will:
