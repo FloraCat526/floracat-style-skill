@@ -1,12 +1,12 @@
 ---
 name: apply-style
-description: Apply the FloraCat Morandi gray-blue design system to any project — colors, typography, components, animations, and layout patterns.
+description: Apply the FloraCat Morandi gray-blue style skill to any project — colors, typography, components, animations, and layout patterns.
 user-invocable: true
 ---
 
 # FloraCat Style Skill
 
-Apply a refined Morandi gray-blue design language to the current project. This system emphasizes understated elegance through muted blue-gray tones, light typography, fluid animations, and generous whitespace.
+Apply the FloraCat Morandi gray-blue style to the current project. This skill emphasizes understated elegance through muted blue-gray tones, light typography, fluid animations, and generous whitespace.
 
 ## Design Philosophy
 

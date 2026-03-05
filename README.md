@@ -1,6 +1,6 @@
 # FloraCat Style Skill
 
-A Morandi gray-blue design language plugin for Claude Code. Instantly apply a refined, elegant visual style to any project — muted tones, light typography, fluid animations, and generous whitespace.
+A Morandi gray-blue style skill for Claude Code. Instantly apply a refined, elegant visual style to any project — muted tones, light typography, fluid animations, and generous whitespace.
 
 ## Installation
 
